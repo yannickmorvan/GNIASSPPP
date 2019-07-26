@@ -1,2 +1,2 @@
 # GNIASPP
-Groupe Nanterrois d'Initiatives et d'Avancements des Statistiques et des Pratiques en Psychologie
+Groupe Nanterrois d'Initiative et d'Avancement des Sciences, des Statistiques, Pratiques et Pédagogie en Psychologie 
